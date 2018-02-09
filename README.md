@@ -8,7 +8,7 @@ A compatible radar tool to generate key-pairs and signing transactions.
   * [Radard submodule](#radard-submodule)
   * [Other dependencies](#other-dependencies)
 * [Build and run](#build-and-run)
-* [How to use](#How-to-use)
+* [How to use](#how-to-use)
 
 
 ## Dependencies
